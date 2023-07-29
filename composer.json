@@ -6,7 +6,7 @@
         "laravel",
         ":package_slug"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/:author_username/:package_slug",
     "license": "MIT",
     "authors": [
         {
